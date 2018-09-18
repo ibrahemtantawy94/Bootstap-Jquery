@@ -1,0 +1,41 @@
+/*Smart Phones*/
+@media(max-width:494px){
+    .navbar-nav > li > a {
+        padding-top: 10px;
+        padding-bottom: 9px;
+    }
+    .subscribe button {
+        border-radius: 15px;
+        margin-top: 20px;
+        margin-bottom: -35px;
+    }
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse{
+        max-height: none;
+    }
+    
+}
+/*Tablets*/
+@media (max-width:767px){
+    .navbar-nav > li > a {
+        padding-top: 10px;
+        padding-bottom: 9px;
+    }
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse{
+        max-height: none;
+    }
+}
+/*Small Screans*/
+@meida (min-width:768px) and (max-width:991px){
+
+    
+}
+/*Medium Screans*/
+@media (min-width:992px) and (max-width:1199px){
+    
+}
+/*Large Screans*/
+@media (min-width:1200px){
+    
+}
